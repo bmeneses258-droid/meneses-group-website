@@ -1,0 +1,133 @@
+/* Phase 2 — three design directions, each anchored to a real reference site.
+   Scoped to [data-rx="<slug>"] on <html> so they never collide and the base
+   template (site/css/styles.css) stays the fallback when no direction is
+   picked. Toggled by ?rx=<slug> in the URL (see the inline script in
+   index.html) or by directions.html's iframe gallery.
+
+   Environment note: the remix-site skill's own tooling
+   (apply-overrides.js / tokenize-css.js) needs node, which this machine
+   doesn't have — this file is the hand-written equivalent of what that
+   script would have generated from directions/<slug>.json. */
+
+:root{
+  /* Motion defaults (Direction A / house style) — read by the reveal
+     observer in index.html so "motion personality" is a real, visible
+     difference between directions, not just a label. */
+  --rx-motion-duration:.5s;
+  --rx-motion-ease:ease;
+  --rx-motion-y:18px;
+  --rx-motion-stagger:.08s;
+}
+
+/* ============ DIRECTION A — House Style (dewaltmenesesgroup.com) ============ */
+:root[data-rx="dewalt-meneses"]{
+  --rx-accent:#153E35;
+  --rx-accent-ink:#DFDCD0;
+  --rx-font-display:'Poppins', sans-serif;
+  --rx-font-body:'Montserrat', sans-serif;
+  --rx-radius:2px;
+  --rx-card-shadow:none;
+  --rx-motion-duration:.5s;
+  --rx-motion-ease:ease;
+  --rx-motion-y:18px;
+  --rx-motion-stagger:.08s;
+}
+:root[data-rx="dewalt-meneses"] body{font-family:var(--rx-font-body);}
+:root[data-rx="dewalt-meneses"] h1,
+:root[data-rx="dewalt-meneses"] h2,
+:root[data-rx="dewalt-meneses"] h3,
+:root[data-rx="dewalt-meneses"] h4{font-family:var(--rx-font-display); text-transform:uppercase; letter-spacing:1px; font-weight:500;}
+:root[data-rx="dewalt-meneses"] .why-card,
+:root[data-rx="dewalt-meneses"] .blog-card,
+:root[data-rx="dewalt-meneses"] .testi-card,
+:root[data-rx="dewalt-meneses"] .day-card,
+:root[data-rx="dewalt-meneses"] .suggestion-item,
+:root[data-rx="dewalt-meneses"] .about img{border-radius:var(--rx-radius); box-shadow:var(--rx-card-shadow);}
+:root[data-rx="dewalt-meneses"] .pill-btn{border-radius:720px;} /* the anchor site keeps its nav CTA pill-shaped even with sharp cards */
+
+/* ============ DIRECTION B — Editorial Bold (aaronkirman.com) ============ */
+:root[data-rx="kirman"]{
+  --rx-accent:#111111;
+  --rx-accent-ink:#ffffff;
+  --rx-font-display:'Playfair Display', serif;
+  --rx-font-body:'Jost', sans-serif;
+  --rx-radius:0px;
+  --rx-card-shadow:none;
+  --rx-paper:#fafafa;
+  --rx-ink:#111111;
+  --rx-motion-duration:.9s;
+  --rx-motion-ease:cubic-bezier(.16,1,.3,1);
+  --rx-motion-y:32px;
+  --rx-motion-stagger:.12s;
+}
+:root[data-rx="kirman"] body{font-family:var(--rx-font-body); background:var(--rx-paper); color:var(--rx-ink);}
+:root[data-rx="kirman"] h1,
+:root[data-rx="kirman"] h2,
+:root[data-rx="kirman"] h3,
+:root[data-rx="kirman"] h4{font-family:var(--rx-font-display); font-weight:800; text-transform:uppercase; letter-spacing:2px;}
+:root[data-rx="kirman"] .eyebrow{color:var(--rx-ink); opacity:.6; letter-spacing:2.5px;}
+:root[data-rx="kirman"] .hscroll-head .eyebrow{color:#fff; opacity:.5;}
+:root[data-rx="kirman"] .why-card,
+:root[data-rx="kirman"] .blog-card,
+:root[data-rx="kirman"] .testi-card,
+:root[data-rx="kirman"] .day-card,
+:root[data-rx="kirman"] .suggestion-item,
+:root[data-rx="kirman"] .about img{border-radius:0; box-shadow:none;}
+:root[data-rx="kirman"] .why-card,
+:root[data-rx="kirman"] .blog-card,
+:root[data-rx="kirman"] .testi-card{background:#fff; border:1px solid rgba(0,0,0,.1);}
+:root[data-rx="kirman"] .pill-btn{border-radius:0; background:var(--rx-accent); color:var(--rx-accent-ink); border-color:var(--rx-accent); letter-spacing:1.5px; text-transform:uppercase; font-size:12px;}
+:root[data-rx="kirman"] .pill-btn.is-ghost{background:transparent; color:#fff; border-color:#fff;}
+:root[data-rx="kirman"] header.nav.scrolled{background:var(--rx-paper); color:var(--rx-ink);}
+:root[data-rx="kirman"] .about,
+:root[data-rx="kirman"] .why,
+:root[data-rx="kirman"] .blog,
+:root[data-rx="kirman"] .plan,
+:root[data-rx="kirman"] .testimonials,
+:root[data-rx="kirman"] .suggestion{padding-top:calc(168px * 1.15); padding-bottom:calc(168px * 1.15);}
+
+/* ============ DIRECTION C — Moody Signature (jademillsestates.com) ============ */
+:root[data-rx="jade-mills"]{
+  --rx-accent:#A9865A;
+  --rx-accent-ink:#1a1a1a;
+  --rx-font-display:'Italiana', serif;
+  --rx-font-body:'Roboto', sans-serif;
+  --rx-radius:8px;
+  --rx-card-shadow:0 20px 60px rgba(0,0,0,.15);
+  --rx-motion-duration:.7s;
+  --rx-motion-ease:cubic-bezier(.22,1,.36,1);
+  --rx-motion-y:24px;
+  --rx-motion-stagger:.1s;
+}
+:root[data-rx="jade-mills"] body{font-family:var(--rx-font-body); font-weight:300;}
+:root[data-rx="jade-mills"] h1,
+:root[data-rx="jade-mills"] h2,
+:root[data-rx="jade-mills"] h3,
+:root[data-rx="jade-mills"] h4{font-family:var(--rx-font-display); font-weight:400; text-transform:none; letter-spacing:normal;}
+:root[data-rx="jade-mills"] .why-card,
+:root[data-rx="jade-mills"] .blog-card,
+:root[data-rx="jade-mills"] .testi-card,
+:root[data-rx="jade-mills"] .day-card,
+:root[data-rx="jade-mills"] .suggestion-item,
+:root[data-rx="jade-mills"] .about img{border-radius:var(--rx-radius); box-shadow:var(--rx-card-shadow);}
+:root[data-rx="jade-mills"] .about,
+:root[data-rx="jade-mills"] .why,
+:root[data-rx="jade-mills"] .blog,
+:root[data-rx="jade-mills"] .plan,
+:root[data-rx="jade-mills"] .testimonials,
+:root[data-rx="jade-mills"] .suggestion{padding-top:calc(168px * 1.1); padding-bottom:calc(168px * 1.1);}
+:root[data-rx="jade-mills"] .hero-content h1{font-size:56px;}
+
+/* ---------- shared accent wiring (all three directions use the same slots) ---------- */
+:root[data-rx] .pill-btn{background:var(--rx-accent); color:var(--rx-accent-ink); border-color:var(--rx-accent);}
+:root[data-rx] .eyebrow{color:var(--rx-accent);}
+:root[data-rx] .text-btn{color:var(--rx-accent);}
+:root[data-rx] .plan-step .num{color:var(--rx-accent);}
+:root[data-rx] .testi-card .who{color:var(--rx-accent);}
+:root[data-rx] header.nav.scrolled .nav-logo img{filter:brightness(0);}
+
+/* ---------- generic scroll-reveal, parameterized per direction ----------
+   Applied via JS (IntersectionObserver) in index.html so "motion
+   personality" is a real visible difference, not just a config label. */
+.rx-reveal{opacity:0; transform:translateY(var(--rx-motion-y,18px)); transition:opacity var(--rx-motion-duration,.5s) var(--rx-motion-ease,ease), transform var(--rx-motion-duration,.5s) var(--rx-motion-ease,ease);}
+.rx-reveal.is-in{opacity:1; transform:translateY(0);}

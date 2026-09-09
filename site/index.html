@@ -1,0 +1,450 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<script>
+  // Set the active direction before first paint (avoids a flash of the
+  // default direction). ?rx=<slug> — see directions.html for the gallery
+  // that drives this via each iframe's src.
+  (function(){
+    var m = location.search.match(/[?&]rx=([a-z-]+)/);
+    // Direction C — Moody Signature — is the picked direction, shipped as
+    // the default. ?rx=<slug> still overrides (directions.html uses this).
+    document.documentElement.setAttribute('data-rx', m ? m[1] : 'jade-mills');
+  })();
+</script>
+<title>Meneses Group | Luxury Real Estate in Los Angeles &amp; Miami</title>
+<meta name="description" content="Meneses Group is a bi-coastal luxury residential real estate team serving Los Angeles and Miami — bespoke representation, off-market access, and white-glove service from consultation to close.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,300;9..144,600&family=Inter:wght@400;500;600&family=Poppins:wght@300;400;500;600&family=Montserrat:wght@400;500;700&family=Playfair+Display:wght@400;600;700;800&family=Jost:wght@400;500;600&family=Italiana&family=Roboto:wght@300;400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="css/directions.css">
+</head>
+<body>
+
+<header class="nav" id="siteNav">
+  <div class="nav-inner">
+    <a href="#" class="nav-logo" aria-label="Meneses Group — home">
+      <img src="assets/img/meneses-group-logo-cropped.png" alt="Meneses Group">
+    </a>
+    <ul class="nav-links">
+      <li><a href="listings.html">Listings</a></li>
+      <li><a href="about.html">About</a></li>
+      <li><a href="press.html">Press &amp; Media</a></li>
+      <li><a href="/insights">Market Insights</a></li>
+    </ul>
+    <div class="nav-right">
+      <a href="#contact" class="pill-btn">Schedule a Consultation</a>
+      <button class="hamburger" aria-label="Menu">&#9776;</button>
+    </div>
+  </div>
+</header>
+
+<!-- ============ HERO ============
+     Ken Burns treatment: a slow, subtle scale+pan on the static photo — a
+     "living photo" feel without AI-generated video. (Seedance 2.0 cloud
+     animation was attempted but requires a paid Higgsfield plan; account is
+     on the free tier. This is the fallback the user chose instead.) ============ -->
+<section class="hero">
+  <img class="hero-bg ken-burns" src="assets/img/house-hero.png" alt="Modern hillside home overlooking Los Angeles">
+  <div class="hero-content">
+    <div class="eyebrow">Global Leaders in Luxury Real Estate</div>
+    <h1>Meneses Group</h1>
+    <div class="hero-locations">Los Angeles | Miami</div>
+    <p>Experience White-Glove Representation Crafted to Perfection. Start Your Search Today!</p>
+    <a href="#contact" class="pill-btn">Schedule a Private Consultation &rarr;</a>
+  </div>
+</section>
+
+<!-- ============ ABOUT ============ -->
+<section class="about wrap">
+  <img src="assets/img/villa-amodei.jpg" alt="Villa Amodei, Somis, California">
+  <div>
+    <div class="eyebrow">The Essence of Our Legacy</div>
+    <h2>Discover the discretion and dedication behind our tailor-made approach to luxury real estate.</h2>
+    <p>Meneses Group stands at the pinnacle of luxury real estate in both Los Angeles and Miami, guiding clients through the acquisition and sale of their most significant assets with discretion, precision, and supreme market expertise.</p>
+    <a href="about.html" class="text-btn">Meet Our Team &rarr;</a>
+  </div>
+</section>
+
+<!-- ============ MEET THE FOUNDERS ============ -->
+<section class="founders wrap">
+  <div class="founders-head">
+    <div class="eyebrow">Meet the Founders</div>
+    <h2>The Team Behind Meneses Group</h2>
+  </div>
+</section>
+<div class="team-grid">
+
+  <!-- Brandon Meneses -->
+  <div class="team-card">
+    <div class="team-photo">
+      <img src="assets/img/brandon-meneses.jpg" alt="Brandon Meneses">
+    </div>
+    <div class="team-bio">
+      <div class="role">Co-Founder, Meneses Group</div>
+      <h2>Brandon Meneses</h2>
+      <p>Brandon is a bi-coastal luxury real estate expert with over a decade of experience and just under $200 million in career sales. Nationally recognized in the Real Trends Verified Top 1% of Realtors, his standout sales include Adam Lambert&rsquo;s Hollywood Hills residence and Villa Amodei, the highest sale in Somis history.</p>
+      <a class="source-link" href="about.html#brandon">Read Full Bio &rarr;</a>
+    </div>
+  </div>
+
+  <!-- Janelle Meneses -->
+  <div class="team-card">
+    <div class="team-photo">
+      <img src="assets/img/janelle-meneses.jpg" alt="Janelle Meneses">
+    </div>
+    <div class="team-bio">
+      <div class="role">Co-Founder, Meneses Group</div>
+      <h2>Janelle Meneses</h2>
+      <p>Janelle brings a unique blend of legal acumen, linguistic versatility, and a deep passion for real estate to Meneses Group, serving the luxury market from Palm Beach to Miami. A former real estate attorney, she specializes in new developments and condominiums across South Florida.</p>
+      <a class="source-link" href="about.html#janelle">Read Full Bio &rarr;</a>
+    </div>
+  </div>
+
+</div>
+
+<!-- ============ WHY ============ -->
+<section class="why wrap">
+  <div class="why-head">
+    <div class="eyebrow">Why work with Meneses Group</div>
+    <h2>Experience Discretion, Expertise, and White-Glove Service on Every Transaction</h2>
+  </div>
+  <div class="why-grid">
+    <div class="why-card">
+      <h3>Local Market Expertise</h3>
+      <p>Leverage our insider knowledge, personal industry connections, and bi-coastal experience across the Los Angeles and Miami luxury markets.</p>
+    </div>
+    <div class="why-card">
+      <h3>Off-Market Access</h3>
+      <p>Our network surfaces exceptional properties before they ever hit the open market — opportunities you won&rsquo;t find anywhere else.</p>
+    </div>
+    <div class="why-card">
+      <h3>White-Glove Representation</h3>
+      <p>Every transaction is handled with discretion and precision, tailored exclusively to your goals — from first call to closing and beyond.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ HSCROLL "FEATURED LISTINGS" ============ -->
+<section class="hscroll-section">
+ <div class="hscroll-pin">
+  <div class="hscroll-head">
+    <div class="eyebrow">Featured Listings</div>
+    <h2>Featured Listings</h2>
+  </div>
+  <div class="hscroll-track-wrap">
+    <div class="hscroll-track" id="hscrollTrack">
+      <div class="day-card">
+        <img src="assets/img/brentwood-melhill.jpg" alt="The Melhill Estate, Brentwood">
+        <div class="info">
+          <div class="time">Brentwood, Los Angeles</div>
+          <h3>The Melhill Estate</h3>
+          <p>Sold &mdash; $53,000,000</p>
+        </div>
+      </div>
+      <div class="day-card">
+        <img src="assets/img/solano-verde-dr.jpg" alt="6914 Solano Verde Dr, Somis">
+        <div class="info">
+          <div class="time">Somis, California</div>
+          <h3>6914 Solano Verde Dr</h3>
+          <p>$14,999,000</p>
+        </div>
+      </div>
+      <div class="day-card">
+        <img src="assets/img/greenwood-dr.jpg" alt="11811 N Greenwood Dr, Porter Ranch">
+        <div class="info">
+          <div class="time">Porter Ranch, California</div>
+          <h3>11811 N Greenwood Dr</h3>
+          <p>Contact for Pricing</p>
+        </div>
+      </div>
+      <div class="day-card">
+        <img src="assets/img/kempinski-miami.jpg" alt="Kempinski Residences, Miami Design District">
+        <div class="info">
+          <div class="time">Miami Design District</div>
+          <h3>Kempinski Residences</h3>
+          <p>Contact Us for More Information</p>
+        </div>
+      </div>
+      <div class="day-card">
+        <img src="assets/img/shoma-bay.jpg" alt="Shoma Bay, North Miami Beach — architectural rendering">
+        <div class="info">
+          <div class="time">North Miami Beach, Florida</div>
+          <h3>Shoma Bay</h3>
+          <p>Now Selling &mdash; Pre-Construction</p>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div style="text-align:center; margin-top:40px;">
+    <a href="listings.html" class="text-btn" style="color:var(--rx-accent-ink,#fff); border-color:currentColor;">View All Listings &rarr;</a>
+  </div>
+ </div>
+</section>
+
+<!-- ============ CTA BAND ============ -->
+<section class="cta-band wrap" id="contact">
+  <span class="eyebrow">Let&rsquo;s get started</span>
+  <h2>Let&rsquo;s Find Your Next Address. Consult with Our Real Estate Experts Today.</h2>
+  <a href="#" class="pill-btn">Schedule a Consultation &rarr;</a>
+</section>
+
+<!-- ============ AVAILABLE FOR SALE ============
+     Live-rendered carousel from assets/data/listings.json (Brandon,
+     auto-synced), assets/data/brokerage-listings.json (all active listings
+     brokerage-wide, auto-synced), and assets/data/agency-listings.json
+     (Janelle, hand-maintained — see js/for-sale-render.js for why). ============ -->
+<section class="for-sale wrap">
+  <div class="for-sale-head">
+    <div class="eyebrow">On the Market Now</div>
+    <h2>Available For Sale</h2>
+    <p id="forSaleStatus" class="for-sale-status">Loading current listings&hellip;</p>
+  </div>
+  <div class="for-sale-carousel">
+    <button id="forSalePrev" class="for-sale-arrow for-sale-arrow-prev" aria-label="Previous listings">&larr;</button>
+    <div class="for-sale-track" id="forSaleTrack"></div>
+    <button id="forSaleNext" class="for-sale-arrow for-sale-arrow-next" aria-label="Next listings">&rarr;</button>
+  </div>
+</section>
+<script src="js/for-sale-render.js"></script>
+
+<!-- ============ MARKET INSIGHTS ============ -->
+<section class="blog wrap">
+  <div class="blog-head">
+    <div>
+      <div class="eyebrow">Market Insights</div>
+      <h2>Latest Insights</h2>
+    </div>
+  </div>
+  <div class="blog-grid">
+    <div class="blog-card">
+      <div class="tag">(Insights)</div>
+      <h3>LA Luxury Market: What to Expect This Fall</h3>
+      <p>Inventory in the $10M+ Westside corridor remains tight. Here&rsquo;s how that&rsquo;s shaping pricing and negotiation leverage heading into year-end.</p>
+    </div>
+    <div class="blog-card">
+      <div class="tag">(Insights)</div>
+      <h3>Miami Waterfront: What Buyers Should Know Before They Offer</h3>
+      <p>Flood zones, HOA reserves, and insurance costs can swing a waterfront deal. A buyer&rsquo;s checklist before writing an offer.</p>
+    </div>
+    <div class="blog-card">
+      <div class="tag">(Insights)</div>
+      <h3>Bel Air vs. Brentwood vs. Miami Beach: Choosing Your Neighborhood</h3>
+      <p>Three distinct lifestyles, three distinct markets. How we help bi-coastal buyers decide where to plant roots.</p>
+    </div>
+    <div class="blog-card">
+      <div class="tag">(Insights)</div>
+      <h3>Off-Market Opportunities: How Our Network Finds Homes Before They List</h3>
+      <p>The best deals in this price tier rarely hit the MLS. Here&rsquo;s how our relationships surface them first.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ PLAN STEPS ============ -->
+<section class="plan wrap">
+  <h2>How We Guide Your Purchase or Sale</h2>
+  <div class="plan-grid">
+    <div class="plan-step">
+      <span class="num">01</span>
+      <h4>Personalised Consultation</h4>
+      <p>Start your journey with a free one-on-one consultation with our team.</p>
+    </div>
+    <div class="plan-step">
+      <span class="num">02</span>
+      <h4>Tailored Search &amp; Strategy</h4>
+      <p>We curate a shortlist matched to your criteria — on-market and off-market.</p>
+    </div>
+    <div class="plan-step">
+      <span class="num">03</span>
+      <h4>Offer &amp; Negotiation</h4>
+      <p>Our team negotiates on your behalf with discretion and market expertise.</p>
+    </div>
+    <div class="plan-step">
+      <span class="num">04</span>
+      <h4>Closing &amp; Beyond</h4>
+      <p>We coordinate every detail through closing — and remain your resource after.</p>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TWO COASTS ============ -->
+<section class="cities wrap">
+  <div class="cities-head">
+    <div class="eyebrow">Where We Sell</div>
+    <h2>Two Coasts, One Standard of Living</h2>
+  </div>
+  <div class="cities-grid">
+    <div class="city-card">
+      <img src="assets/img/miami-private-island.jpg" alt="Private guard-gated island estate in Biscayne Bay, Miami, with the downtown skyline beyond">
+      <div class="city-info">
+        <div class="eyebrow">Miami</div>
+        <h3>Miami&rsquo;s Most Exclusive Islands</h3>
+        <p>Hibiscus, Venetian &amp; Star Island &mdash; guard-gated addresses minutes from South Beach and the Design District, skyline views included.</p>
+      </div>
+    </div>
+    <div class="city-card">
+      <img src="assets/img/beverly-hills-hillside.jpg" alt="Modern hillside mansions above West Hollywood and Beverly Hills, Los Angeles">
+      <div class="city-info">
+        <div class="eyebrow">Los Angeles</div>
+        <h3>Beverly Hills &amp; Beyond</h3>
+        <p>From Trousdale to the Bird Streets &mdash; estates set into the canyon with commanding views of the city and coastline.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ TESTIMONIALS ============
+     Placeholder quotes — matches the source's testimonial layout/count, but
+     these are NOT real client reviews. Swap in actual client testimonials
+     before this goes live; attributions are deliberately generic (role +
+     neighborhood, no invented full names) so nothing here reads as a
+     fabricated review of a real person. ============ -->
+<section class="testimonials wrap">
+  <h2>Trusted by Our Clients</h2>
+  <div class="testi-track">
+    <div class="testi-card">
+      <p>&ldquo;Working with Meneses Group made finding our next home effortless. Their discretion and market knowledge were unmatched.&rdquo;</p>
+      <div>
+        <div class="who">Buyer</div>
+        <div class="where">Brentwood, Los Angeles</div>
+      </div>
+    </div>
+    <div class="testi-card">
+      <p>&ldquo;From our first call to closing, the team anticipated every detail. It never felt transactional.&rdquo;</p>
+      <div>
+        <div class="who">Seller</div>
+        <div class="where">Miami Beach</div>
+      </div>
+    </div>
+    <div class="testi-card">
+      <p>&ldquo;Their off-market network found us a property we never would have seen otherwise.&rdquo;</p>
+      <div>
+        <div class="who">Buyer</div>
+        <div class="where">Bel Air, Los Angeles</div>
+      </div>
+    </div>
+    <div class="testi-card">
+      <p>&ldquo;Responsive, sharp, and completely dialed into both markets. Exactly what a bi-coastal search needs.&rdquo;</p>
+      <div>
+        <div class="who">Buyer</div>
+        <div class="where">Los Angeles &amp; Miami</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ MORE LISTINGS GALLERY ============ -->
+<section class="suggestion wrap">
+  <div class="suggestion-grid">
+    <div class="suggestion-item"><img src="assets/img/foxtail-ranch.jpg" alt="Foxtail Ranch"><span>Foxtail Ranch</span></div>
+    <div class="suggestion-item"><img src="assets/img/oak-canyon-ranch.jpg" alt="Oak Canyon Ranch"><span>Oak Canyon Ranch</span></div>
+    <div class="suggestion-item"><img src="assets/img/gallery-parkway-calabasas.jpg" alt="5192 Parkway, Calabasas"><span>5192 Parkway, Calabasas</span></div>
+    <div class="suggestion-item"><img src="assets/img/gallery-bel-air-pl.jpg" alt="1111 Bel Air Pl"><span>1111 Bel Air Pl</span></div>
+    <div class="suggestion-item"><img src="assets/img/kempinski-miami.jpg" alt="Kempinski Residences, Miami"><span>Kempinski Residences, Miami</span></div>
+  </div>
+</section>
+
+<!-- ============ FOOTER ============ -->
+<footer>
+  <div class="wrap footer-grid">
+    <div>
+      <img src="assets/img/meneses-group-logo-cropped.png" alt="Meneses Group" style="height:34px;width:auto;margin-bottom:20px;">
+      <p style="opacity:.7; max-width:260px;">8878 W Sunset Blvd, West Hollywood, CA 90069</p>
+    </div>
+    <div>
+      <h5>Explore</h5>
+      <ul>
+        <li><a href="listings.html">Listings</a></li>
+        <li><a href="about.html">About</a></li>
+        <li><a href="press.html">Press &amp; Media</a></li>
+        <li><a href="/insights">Market Insights</a></li>
+        <li><a href="#contact">Schedule a Consultation</a></li>
+      </ul>
+    </div>
+    <div>
+      <h5>Enquire Now</h5>
+      <p>Call us for inquiries and support</p>
+      <p><a href="tel:+15616741733">Brandon: (561) 674-1733</a></p>
+      <p><a href="tel:+15615376660">Janelle: (561) 537-6660</a></p>
+      <p style="margin-top:12px;">Email us for more information</p>
+      <p><a href="mailto:meneses@thebeverlyhillsestates.com">Brandon: meneses@thebeverlyhillsestates.com</a></p>
+      <p><a href="mailto:Janelle.m@theagencyre.com">Janelle: Janelle.m@theagencyre.com</a></p>
+    </div>
+    <div>
+      <h5>Stay in the Loop</h5>
+      <p>Get new listings, off-market opportunities, and market insights delivered straight to your inbox.</p>
+      <form class="newsletter-form" onsubmit="return false">
+        <input type="email" placeholder="Enter your email" required>
+        <button type="submit">Subscribe</button>
+      </form>
+      <p style="margin-top:16px; font-size:11px; opacity:.6;">Follow us: <a href="#">Instagram</a> &middot; <a href="#">LinkedIn</a></p>
+    </div>
+  </div>
+  <div class="wrap" style="padding-bottom:24px; font-size:11px; opacity:.6; line-height:1.7;">
+    Brandon Meneses | CA DRE# 02112187 &middot; The Beverly Hills Estates Inc. | CA DRE# 02126121<br>
+    All information is deemed reliable but not guaranteed and should be independently reviewed and verified.
+  </div>
+  <div class="wrap footer-bottom">
+    <span>&copy; 2026 Meneses Group. All Rights Reserved &middot; Privacy Policy</span>
+  </div>
+</footer>
+
+<script>
+  const nav = document.getElementById('siteNav');
+  window.addEventListener('scroll', () => {
+    nav.classList.toggle('scrolled', window.scrollY > 40);
+  });
+
+  // Horizontal-scroll "Featured Listings" track: driven by page scroll —
+  // reproduces the source's GSAP ScrollTrigger scrub behavior on
+  // .hscroll-container (measured live off insidermadeira.com), not a
+  // click-through carousel.
+  (function(){
+    const section = document.querySelector('.hscroll-section');
+    const track = document.getElementById('hscrollTrack');
+    if (!section || !track) return;
+    function update() {
+      const rect = section.getBoundingClientRect();
+      const vh = window.innerHeight;
+      const total = rect.height - vh;
+      if (total <= 0) return;
+      const progress = Math.min(1, Math.max(0, -rect.top / total));
+      const maxScroll = Math.max(0, track.scrollWidth - track.parentElement.clientWidth);
+      track.style.transform = `translateX(${-progress * maxScroll}px)`;
+    }
+    document.fonts && document.fonts.ready.then(update);
+    window.addEventListener('scroll', update, { passive: true });
+    window.addEventListener('resize', update);
+    update();
+  })();
+
+  // Generic scroll-reveal — timing (duration/ease/distance/stagger) comes
+  // from --rx-motion-* custom props, which each direction in directions.css
+  // sets differently. Same mechanism for all three; different personality.
+  (function(){
+    const groups = [
+      document.querySelectorAll('.why-card'),
+      document.querySelectorAll('.blog-card'),
+      document.querySelectorAll('.plan-step'),
+      document.querySelectorAll('.city-card'),
+      document.querySelectorAll('.testi-card'),
+      document.querySelectorAll('.suggestion-item'),
+    ];
+    const staggerVar = parseFloat(getComputedStyle(document.documentElement).getPropertyValue('--rx-motion-stagger')) || 0.08;
+    groups.forEach(group => {
+      group.forEach((el, i) => {
+        el.classList.add('rx-reveal');
+        el.style.transitionDelay = (i * staggerVar) + 's';
+      });
+    });
+    const io = new IntersectionObserver((entries) => {
+      entries.forEach(e => { if (e.isIntersecting) { e.target.classList.add('is-in'); io.unobserve(e.target); } });
+    }, { threshold: 0.15 });
+    groups.forEach(group => group.forEach(el => io.observe(el)));
+  })();
+</script>
+</body>
+</html>

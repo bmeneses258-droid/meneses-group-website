@@ -1,0 +1,26 @@
+{
+  "name": "Moody Signature",
+  "anchor": "https://jademillsestates.com/",
+  "thesis": "Cinematic, personal-brand-forward luxury — moody dusk photography, a graceful tall serif, warm brass accent, softer surfaces.",
+  "fontSubstitutionNote": "Source's Italiana and Roboto are both free/open on Google Fonts already — used verbatim, no substitution needed.",
+  "forks": {
+    "paletteMood": "warm brass accent (#A9865A) on a slightly warmer paper, softer than the other two directions",
+    "typePairing": "Italiana (display, graceful, NOT uppercase) + Roboto (body) — real fonts from the anchor site",
+    "heroTreatment": "moody dusk/twilight photography, small-caps superlative eyebrow above a large serif wordmark-style headline",
+    "density": "generous (1.1x)",
+    "surface": "soft — 8px radius, diffuse shadow on cards for a glossier, more polished feel",
+    "motionPersonality": "gentle — .7s, moderate reveal distance and stagger"
+  },
+  "tokens": {
+    "--rx-accent": "#A9865A",
+    "--rx-accent-ink": "#1a1a1a",
+    "--rx-font-display": "'Italiana', serif",
+    "--rx-font-body": "'Roboto', sans-serif",
+    "--rx-space-unit": "1.1",
+    "--rx-radius": "8px",
+    "--rx-shadow": "0 20px 60px rgba(0,0,0,.15)",
+    "--rx-heading-transform": "none",
+    "--rx-heading-tracking": "normal"
+  },
+  "motion": { "reveal": { "y": 24, "duration": 0.7, "ease": "cubic-bezier(.22,1,.36,1)" }, "stagger": 0.1 }
+}

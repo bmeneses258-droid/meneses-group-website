@@ -1,0 +1,42 @@
+name: Sync listings from thebeverlyhillsestates.com
+
+on:
+  schedule:
+    # Every 6 hours. GitHub's scheduler runs on a best-effort basis and can
+    # lag during high load — that's fine here; this isn't time-critical.
+    - cron: '17 */6 * * *'
+  workflow_dispatch: {} # lets you trigger a sync manually from the Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install requests beautifulsoup4
+
+      - name: Run sync (Brandon's own listings)
+        run: python3 scripts/sync-listings.py site/assets/data/listings.json
+
+      - name: Run sync (brokerage-wide active listings)
+        run: python3 scripts/sync-brokerage-listings.py site/assets/data/brokerage-listings.json
+
+      - name: Commit updated listings data if it changed
+        run: |
+          git config user.name "listings-sync-bot"
+          git config user.email "actions@users.noreply.github.com"
+          if git diff --quiet -- site/assets/data/listings.json site/assets/data/brokerage-listings.json; then
+            echo "No changes in listings — nothing to commit."
+            exit 0
+          fi
+          git add site/assets/data/listings.json site/assets/data/brokerage-listings.json
+          git commit -m "Sync listings from thebeverlyhillsestates.com [automated]"
+          git push

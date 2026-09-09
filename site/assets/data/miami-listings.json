@@ -1,0 +1,33 @@
+{
+  "_comment": "Meneses Group's active Miami developments — pre-construction/new-development projects, not standard resale MLS listings, so there is nothing to scrape from a brokerage search for these. Maintained by hand; update when a unit's starting price or availability changes.",
+  "listings": [
+    {
+      "status": "active",
+      "address": "Kempinski Residences",
+      "city": "Miami Design District, Florida",
+      "price_text": "Starting at $2,500,000",
+      "price_value": 2500000,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "source_url": "listings.html",
+      "image_url": "assets/img/kempinski-miami.jpg",
+      "agent": null,
+      "brokerage": "Meneses Group"
+    },
+    {
+      "status": "active",
+      "address": "Shoma Bay",
+      "city": "North Miami Beach, Florida",
+      "price_text": "Starting at $900,000",
+      "price_value": 900000,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "source_url": "listings.html",
+      "image_url": "assets/img/shoma-bay.jpg",
+      "agent": null,
+      "brokerage": "Meneses Group"
+    }
+  ]
+}

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Meneses Group — Design Directions</title>
+<style>
+  :root{ --bar-h:64px; }
+  *{box-sizing:border-box;}
+  body{margin:0; font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',sans-serif; background:#0e0e0e; color:#fff;}
+  .topbar{position:fixed; top:0; left:0; right:0; height:var(--bar-h); display:flex; align-items:center; justify-content:space-between; padding:0 20px; background:#0e0e0e; border-bottom:1px solid #262626; z-index:10;}
+  .topbar h1{font-size:14px; font-weight:600; margin:0; letter-spacing:.3px;}
+  .topbar .hint{font-size:12px; color:#888;}
+  .cols{display:grid; grid-template-columns:1fr 1fr 1fr; height:100vh; padding-top:var(--bar-h);}
+  .col{position:relative; border-right:1px solid #262626; display:flex; flex-direction:column; min-width:0;}
+  .col:last-child{border-right:0;}
+  .col-head{display:flex; align-items:center; justify-content:space-between; gap:8px; padding:12px 14px; background:#161616; border-bottom:1px solid #262626;}
+  .col-head .name{font-size:13px; font-weight:600; cursor:pointer;}
+  .col-head .thesis{font-size:11px; color:#999; margin-top:2px; line-height:1.4;}
+  .col-head .meta{flex:1; min-width:0;}
+  .pick-btn{flex-shrink:0; font-size:11px; padding:7px 12px; border-radius:6px; border:1px solid #444; background:#1f1f1f; color:#eee; cursor:pointer; white-space:nowrap;}
+  .pick-btn:hover{background:#2a2a2a;}
+  .pick-btn.picked{background:#2f6f4f; border-color:#2f6f4f; color:#fff;}
+  iframe{flex:1; width:100%; border:0; background:#fff;}
+  .col.fullscreen{position:fixed; inset:0; z-index:20; padding-top:var(--bar-h); border:0;}
+  .fs-hint{display:none;}
+  .col.fullscreen .fs-hint{display:block; font-size:11px; color:#999; cursor:pointer;}
+  .cols.has-fullscreen .col:not(.fullscreen){display:none;}
+  @media (max-width:900px){
+    .cols{grid-template-columns:1fr; height:auto;}
+    .col{height:70vh; border-right:0; border-bottom:1px solid #262626;}
+  }
+</style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>Meneses Group — Three Directions</h1>
+  <span class="hint">Click a name to view fullscreen &middot; Pick stores your choice locally</span>
+</div>
+
+<div class="cols" id="cols">
+  <div class="col" data-slug="dewalt-meneses">
+    <div class="col-head">
+      <div class="meta">
+        <div class="name">A &mdash; House Style</div>
+        <div class="thesis">Warm &amp; colored, anchored to dewaltmenesesgroup.com</div>
+      </div>
+      <span class="fs-hint">&larr; back</span>
+      <button class="pick-btn" data-slug="dewalt-meneses">Pick this</button>
+    </div>
+    <iframe src="index.html?rx=dewalt-meneses" loading="lazy"></iframe>
+  </div>
+  <div class="col" data-slug="kirman">
+    <div class="col-head">
+      <div class="meta">
+        <div class="name">B &mdash; Editorial Bold</div>
+        <div class="thesis">Monochrome magazine drama, anchored to aaronkirman.com</div>
+      </div>
+      <span class="fs-hint">&larr; back</span>
+      <button class="pick-btn" data-slug="kirman">Pick this</button>
+    </div>
+    <iframe src="index.html?rx=kirman" loading="lazy"></iframe>
+  </div>
+  <div class="col" data-slug="jade-mills">
+    <div class="col-head">
+      <div class="meta">
+        <div class="name">C &mdash; Moody Signature</div>
+        <div class="thesis">Cinematic &amp; warm, anchored to jademillsestates.com</div>
+      </div>
+      <span class="fs-hint">&larr; back</span>
+      <button class="pick-btn" data-slug="jade-mills">Pick this</button>
+    </div>
+    <iframe src="index.html?rx=jade-mills" loading="lazy"></iframe>
+  </div>
+</div>
+
+<script>
+  const colsEl = document.getElementById('cols');
+  const cols = [...document.querySelectorAll('.col')];
+
+  // synced scroll across the three iframes
+  let syncing = false;
+  cols.forEach(col => {
+    const iframe = col.querySelector('iframe');
+    iframe.addEventListener('load', () => {
+      try {
+        iframe.contentWindow.addEventListener('scroll', () => {
+          if (syncing) return;
+          syncing = true;
+          const y = iframe.contentWindow.scrollY;
+          cols.forEach(other => {
+            if (other === col) return;
+            try { other.querySelector('iframe').contentWindow.scrollTo(0, y); } catch (e) {}
+          });
+          syncing = false;
+        }, { passive: true });
+      } catch (e) {}
+    });
+  });
+
+  // click name -> fullscreen that column; click hint -> back to 3-up
+  cols.forEach(col => {
+    col.querySelector('.name').addEventListener('click', () => {
+      colsEl.classList.add('has-fullscreen');
+      col.classList.add('fullscreen');
+    });
+    col.querySelector('.fs-hint').addEventListener('click', () => {
+      colsEl.classList.remove('has-fullscreen');
+      col.classList.remove('fullscreen');
+    });
+  });
+
+  // pick -> localStorage
+  function refreshPickButtons() {
+    const picked = localStorage.getItem('rx-pick');
+    document.querySelectorAll('.pick-btn').forEach(btn => {
+      btn.classList.toggle('picked', btn.dataset.slug === picked);
+      btn.textContent = btn.dataset.slug === picked ? 'Picked ✓' : 'Pick this';
+    });
+  }
+  document.querySelectorAll('.pick-btn').forEach(btn => {
+    btn.addEventListener('click', () => {
+      localStorage.setItem('rx-pick', btn.dataset.slug);
+      refreshPickButtons();
+    });
+  });
+  refreshPickButtons();
+</script>
+</body>
+</html>

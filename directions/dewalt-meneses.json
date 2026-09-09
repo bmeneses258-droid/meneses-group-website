@@ -1,0 +1,25 @@
+{
+  "name": "House Style",
+  "anchor": "https://dewaltmenesesgroup.com/",
+  "thesis": "Warm, colored, editorial-label luxury — the team's own established brand language (deep green, uppercase tracked labels, full-bleed video).",
+  "forks": {
+    "paletteMood": "colored — deep green + navy, cream text-on-accent",
+    "typePairing": "Poppins (display, uppercase, tracked) + Montserrat (body)",
+    "heroTreatment": "full-bleed autoplay video, dark gradient overlay",
+    "density": "baseline (1x)",
+    "surface": "sharp — 2px radius, no shadow",
+    "motionPersonality": "calm — .5s ease, modest reveal distance"
+  },
+  "tokens": {
+    "--rx-accent": "#153E35",
+    "--rx-accent-ink": "#DFDCD0",
+    "--rx-font-display": "'Poppins', sans-serif",
+    "--rx-font-body": "'Montserrat', sans-serif",
+    "--rx-space-unit": "1",
+    "--rx-radius": "2px",
+    "--rx-shadow": "none",
+    "--rx-heading-transform": "uppercase",
+    "--rx-heading-tracking": "1px"
+  },
+  "motion": { "reveal": { "y": 18, "duration": 0.5, "ease": "ease" }, "stagger": 0.08 }
+}

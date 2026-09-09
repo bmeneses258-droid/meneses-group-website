@@ -1,0 +1,28 @@
+{
+  "name": "Editorial Bold",
+  "anchor": "https://aaronkirman.com/",
+  "thesis": "Monochrome magazine-cover drama — near-black on near-white, huge high-contrast serif display type, night-photography carousel hero.",
+  "fontSubstitutionNote": "Source uses commercial fonts Didot LT Std + Gilroy, self-hosted and not open-licensed. Substituted with Playfair Display (free, closest high-contrast Didone) + Jost (free, closest geometric-grotesk to Gilroy). Flagged, not silent.",
+  "forks": {
+    "paletteMood": "monochrome — near-black (#111) on near-white (#fafafa), no color accent",
+    "typePairing": "Playfair Display (display, uppercase, wide-tracked, heavy) + Jost (body) — substitutes for Didot/Gilroy",
+    "heroTreatment": "dark night-photography, slideshow/carousel with a progress underline, cover-line headline treatment",
+    "density": "slightly more generous (1.15x) — editorial magazine breathing room",
+    "surface": "sharp — 0px radius, no shadow, hard edges throughout",
+    "motionPersonality": "dramatic — .9s, more pronounced reveal distance and stagger"
+  },
+  "tokens": {
+    "--rx-accent": "#111111",
+    "--rx-accent-ink": "#ffffff",
+    "--rx-font-display": "'Playfair Display', serif",
+    "--rx-font-body": "'Jost', sans-serif",
+    "--rx-space-unit": "1.15",
+    "--rx-radius": "0px",
+    "--rx-shadow": "none",
+    "--rx-heading-transform": "uppercase",
+    "--rx-heading-tracking": "2px",
+    "--rx-paper": "#fafafa",
+    "--rx-ink": "#111111"
+  },
+  "motion": { "reveal": { "y": 32, "duration": 0.9, "ease": "cubic-bezier(.16,1,.3,1)" }, "stagger": 0.12 }
+}
