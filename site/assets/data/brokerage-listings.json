@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-09T18:31:08.229132+00:00",
+  "generated_at": "2026-09-10T00:33:38.054390+00:00",
   "counts": {
     "active": 86
   },
@@ -322,21 +322,6 @@
     },
     {
       "status": "active",
-      "address": "12 Oakmont Dr",
-      "city": "Los Angeles, California 90049",
-      "price_text": "$55,000,000",
-      "price_value": 55000000,
-      "represented": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "source_url": "https://thebeverlyhillsestates.com/listing/12-oakmont-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/08/22023709/12_OakmontDrive_NEW_22_2048px-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "La Rosa Nautica",
       "city": "Vista Del Mar,",
       "price_text": "$55,000,000",
@@ -347,6 +332,21 @@
       "sqft": 19987,
       "source_url": "https://thebeverlyhillsestates.com/listing/la-rosa-nautica/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/09002757/CUMBE-001-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "12 Oakmont Dr",
+      "city": "Los Angeles, California 90049",
+      "price_text": "$55,000,000",
+      "price_value": 55000000,
+      "represented": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "source_url": "https://thebeverlyhillsestates.com/listing/12-oakmont-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/08/22023709/12_OakmontDrive_NEW_22_2048px-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -722,6 +722,21 @@
       "sqft": 7954,
       "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25062319/00_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-111-1024x575.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "10772 Chalon Rd",
+      "city": "Bel-Air, California 90077",
+      "price_text": "$32,500,000",
+      "price_value": 32500000,
+      "represented": null,
+      "beds": 7,
+      "baths": 8,
+      "sqft": 10600,
+      "source_url": "https://thebeverlyhillsestates.com/listing/10772-chalon-rd/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/09084532/01_5P5A4997-Edit3-1024x684.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1277,21 +1292,6 @@
       "sqft": 16329,
       "source_url": "https://thebeverlyhillsestates.com/listing/5287-round-meadow-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/12/001-1024x628.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "1122 La Altura Rd",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$17,995,000",
-      "price_value": 17995000,
-      "represented": null,
-      "beds": 5,
-      "baths": 8,
-      "sqft": 8007,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1122-la-altura-rd-2/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/01010948/HIGH-RES-70-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     }
