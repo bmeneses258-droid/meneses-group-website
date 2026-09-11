@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-10T18:29:09.422929+00:00",
+  "generated_at": "2026-09-11T00:34:14.725862+00:00",
   "counts": {
     "active": 86
   },
@@ -187,21 +187,6 @@
     },
     {
       "status": "active",
-      "address": "9330 Flicker Way",
-      "city": "Bird Streets, California 90069",
-      "price_text": "$68,000,000",
-      "price_value": 68000000,
-      "represented": null,
-      "beds": 9,
-      "baths": 14,
-      "sqft": null,
-      "source_url": "https://thebeverlyhillsestates.com/listing/9330-flicker-wy/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2021/12/Still-16-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "77 Beverly Park Lane",
       "city": "Beverly Hills, California 90210",
       "price_text": "$68,000,000",
@@ -212,6 +197,21 @@
       "sqft": 27000,
       "source_url": "https://thebeverlyhillsestates.com/listing/77-beverly-park-lane/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/07093816/01_77BeverlyPark016-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "9330 Flicker Way",
+      "city": "Bird Streets, California 90069",
+      "price_text": "$68,000,000",
+      "price_value": 68000000,
+      "represented": null,
+      "beds": 9,
+      "baths": 14,
+      "sqft": null,
+      "source_url": "https://thebeverlyhillsestates.com/listing/9330-flicker-wy/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2021/12/Still-16-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -277,6 +277,21 @@
     },
     {
       "status": "active",
+      "address": "107 Delfern Drive",
+      "city": "Holmby Hills, California 90077",
+      "price_text": "$58,000,000",
+      "price_value": 58000000,
+      "represented": null,
+      "beds": 11,
+      "baths": 20,
+      "sqft": 21000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "1251 Tower Grove Drive",
       "city": "Beverly HIlls, California 90210",
       "price_text": "$58,000,000",
@@ -302,21 +317,6 @@
       "sqft": 17000,
       "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "107 Delfern Drive",
-      "city": "Holmby Hills, California 90077",
-      "price_text": "$58,000,000",
-      "price_value": 58000000,
-      "represented": null,
-      "beds": 11,
-      "baths": 20,
-      "sqft": 21000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -497,21 +497,6 @@
       "sqft": 19000,
       "source_url": "https://thebeverlyhillsestates.com/listing/1625-summitridge-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/11/1625SummitridgeDrive008-1-1024x757.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "1309 Davies Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$39,000,000",
-      "price_value": 39000000,
-      "represented": null,
-      "beds": 6,
-      "baths": 12,
-      "sqft": 11000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1309-davies-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/02/21070242/01_1309DaviesDr007-1024x694.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -727,21 +712,6 @@
     },
     {
       "status": "active",
-      "address": "10772 Chalon Rd",
-      "city": "Bel-Air, California 90077",
-      "price_text": "$32,500,000",
-      "price_value": 32500000,
-      "represented": null,
-      "beds": 7,
-      "baths": 8,
-      "sqft": 10600,
-      "source_url": "https://thebeverlyhillsestates.com/listing/10772-chalon-rd/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/09084532/01_5P5A4997-Edit3-1024x684.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "783 Bel Air",
       "city": "Bel Air, California",
       "price_text": "$32,500,000",
@@ -752,6 +722,21 @@
       "sqft": null,
       "source_url": "https://thebeverlyhillsestates.com/listing/783-bel-air-2/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/05/15_Screenshot-2025-02-25-at-2.12.58%E2%80%AFPM-copy-1024x574.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "10772 Chalon Rd",
+      "city": "Bel-Air, California 90077",
+      "price_text": "$32,500,000",
+      "price_value": 32500000,
+      "represented": null,
+      "beds": 7,
+      "baths": 8,
+      "sqft": 10600,
+      "source_url": "https://thebeverlyhillsestates.com/listing/10772-chalon-rd/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/09084532/01_5P5A4997-Edit3-1024x684.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -782,6 +767,21 @@
       "sqft": 5764,
       "source_url": "https://thebeverlyhillsestates.com/listing/6825-zumirez-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/11/03045722/1_v2-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1309 Davies Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$29,995,000",
+      "price_value": 29995000,
+      "represented": null,
+      "beds": 6,
+      "baths": 12,
+      "sqft": 11000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1309-davies-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/02/21070242/01_1309DaviesDr007-1024x694.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1147,6 +1147,21 @@
     },
     {
       "status": "active",
+      "address": "5544 Hoback Glen Rd",
+      "city": "Hidden Hills, California 91302",
+      "price_text": "$19,950,000",
+      "price_value": 19950000,
+      "represented": null,
+      "beds": 5,
+      "baths": 6,
+      "sqft": 10000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/5544-hoback-glen-rd/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/11052440/File-1-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "1083 N Hillcrest Rd",
       "city": "Beverly Hills, California 90210",
       "price_text": "$19,500,000",
@@ -1277,21 +1292,6 @@
       "sqft": 5452,
       "source_url": "https://thebeverlyhillsestates.com/listing/976-n-alpine-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/08/16090840/02_976NorthAlpine008-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "5287  Round Meadow Rd",
-      "city": "Hidden Hills, California 91302",
-      "price_text": "$17,999,999",
-      "price_value": 17999999,
-      "represented": null,
-      "beds": 7,
-      "baths": 11,
-      "sqft": 16329,
-      "source_url": "https://thebeverlyhillsestates.com/listing/5287-round-meadow-rd/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/12/001-1024x628.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     }
