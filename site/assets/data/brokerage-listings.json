@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-12T18:27:33.750197+00:00",
+  "generated_at": "2026-09-13T00:34:17.040586+00:00",
   "counts": {
     "active": 86
   },
@@ -97,21 +97,6 @@
     },
     {
       "status": "active",
-      "address": "9904 Kip Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$88,000,000",
-      "price_value": 88000000,
-      "represented": null,
-      "beds": 10,
-      "baths": 22,
-      "sqft": 24757,
-      "source_url": "https://thebeverlyhillsestates.com/listing/9904-kip-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/9904-Kip-Dr-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "26848 Pacific Coast Hwy",
       "city": "Malibu, California 90265",
       "price_text": "$88,000,000",
@@ -122,6 +107,21 @@
       "sqft": 15430,
       "source_url": "https://thebeverlyhillsestates.com/listing/26848-pacific-coast-hwy/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/11051940/01_26848-PCH-Aug-21-HighRes-Mike-Kelley-50-1024x622.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "9904 Kip Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$88,000,000",
+      "price_value": 88000000,
+      "represented": null,
+      "beds": 10,
+      "baths": 22,
+      "sqft": 24757,
+      "source_url": "https://thebeverlyhillsestates.com/listing/9904-kip-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/9904-Kip-Dr-1-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -187,21 +187,6 @@
     },
     {
       "status": "active",
-      "address": "77 Beverly Park Lane",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$68,000,000",
-      "price_value": 68000000,
-      "represented": null,
-      "beds": 9,
-      "baths": 15,
-      "sqft": 27000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/77-beverly-park-lane/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/07093816/01_77BeverlyPark016-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "9330 Flicker Way",
       "city": "Bird Streets, California 90069",
       "price_text": "$68,000,000",
@@ -212,6 +197,21 @@
       "sqft": null,
       "source_url": "https://thebeverlyhillsestates.com/listing/9330-flicker-wy/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2021/12/Still-16-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "77 Beverly Park Lane",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$68,000,000",
+      "price_value": 68000000,
+      "represented": null,
+      "beds": 9,
+      "baths": 15,
+      "sqft": 27000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/77-beverly-park-lane/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/07093816/01_77BeverlyPark016-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -277,21 +277,6 @@
     },
     {
       "status": "active",
-      "address": "107 Delfern Drive",
-      "city": "Holmby Hills, California 90077",
-      "price_text": "$58,000,000",
-      "price_value": 58000000,
-      "represented": null,
-      "beds": 11,
-      "baths": 20,
-      "sqft": 21000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "1251 Tower Grove Drive",
       "city": "Beverly HIlls, California 90210",
       "price_text": "$58,000,000",
@@ -317,6 +302,21 @@
       "sqft": 17000,
       "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "107 Delfern Drive",
+      "city": "Holmby Hills, California 90077",
+      "price_text": "$58,000,000",
+      "price_value": 58000000,
+      "represented": null,
+      "beds": 11,
+      "baths": 20,
+      "sqft": 21000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1162,21 +1162,6 @@
     },
     {
       "status": "active",
-      "address": "1083 N Hillcrest Rd",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$19,500,000",
-      "price_value": 19500000,
-      "represented": null,
-      "beds": 5,
-      "baths": 8,
-      "sqft": 6083,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "555 N Patencio Rd",
       "city": "Palm Springs, California 92262",
       "price_text": "$19,500,000",
@@ -1187,6 +1172,21 @@
       "sqft": 15975,
       "source_url": "https://thebeverlyhillsestates.com/listing/555-n-patencio-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/10075225/1-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1083 N Hillcrest Rd",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$19,500,000",
+      "price_value": 19500000,
+      "represented": null,
+      "beds": 5,
+      "baths": 8,
+      "sqft": 6083,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
