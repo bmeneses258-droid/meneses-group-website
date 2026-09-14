@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-13T18:28:47.684415+00:00",
+  "generated_at": "2026-09-14T00:35:20.895805+00:00",
   "counts": {
     "active": 86
   },
@@ -1162,21 +1162,6 @@
     },
     {
       "status": "active",
-      "address": "1083 N Hillcrest Rd",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$19,500,000",
-      "price_value": 19500000,
-      "represented": null,
-      "beds": 5,
-      "baths": 8,
-      "sqft": 6083,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "555 N Patencio Rd",
       "city": "Palm Springs, California 92262",
       "price_text": "$19,500,000",
@@ -1187,6 +1172,21 @@
       "sqft": 15975,
       "source_url": "https://thebeverlyhillsestates.com/listing/555-n-patencio-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/10075225/1-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1083 N Hillcrest Rd",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$19,500,000",
+      "price_value": 19500000,
+      "represented": null,
+      "beds": 5,
+      "baths": 8,
+      "sqft": 6083,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
