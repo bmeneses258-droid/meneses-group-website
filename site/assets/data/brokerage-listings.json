@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-16T00:33:23.940138+00:00",
+  "generated_at": "2026-09-16T06:33:39.030526+00:00",
   "counts": {
     "active": 87
   },
@@ -322,21 +322,6 @@
     },
     {
       "status": "active",
-      "address": "12 Oakmont Dr",
-      "city": "Los Angeles, California 90049",
-      "price_text": "$55,000,000",
-      "price_value": 55000000,
-      "represented": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "source_url": "https://thebeverlyhillsestates.com/listing/12-oakmont-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/08/22023709/12_OakmontDrive_NEW_22_2048px-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "La Rosa Nautica",
       "city": "Vista Del Mar,",
       "price_text": "$55,000,000",
@@ -347,6 +332,21 @@
       "sqft": 19987,
       "source_url": "https://thebeverlyhillsestates.com/listing/la-rosa-nautica/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/09002757/CUMBE-001-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "12 Oakmont Dr",
+      "city": "Los Angeles, California 90049",
+      "price_text": "$55,000,000",
+      "price_value": 55000000,
+      "represented": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "source_url": "https://thebeverlyhillsestates.com/listing/12-oakmont-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/08/22023709/12_OakmontDrive_NEW_22_2048px-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -607,21 +607,6 @@
     },
     {
       "status": "active",
-      "address": "1465 Donhill Dr",
-      "city": "Beverly hills, California 90210",
-      "price_text": "",
-      "price_value": null,
-      "represented": null,
-      "beds": 5,
-      "baths": 7,
-      "sqft": 15000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1465-donhill-dr-3/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/15052108/1465Donhill171a-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "1894 N Stanley Ave",
       "city": "Los Angeles, California 90046",
       "price_text": "$35,000,000",
@@ -632,6 +617,21 @@
       "sqft": 10700,
       "source_url": "https://thebeverlyhillsestates.com/listing/1894-n-stanley-avenue/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/01095826/01-1894NorthStanley005a-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1465 Donhill Dr",
+      "city": "Beverly hills, California 90210",
+      "price_text": "",
+      "price_value": null,
+      "represented": null,
+      "beds": 5,
+      "baths": 7,
+      "sqft": 15000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1465-donhill-dr-3/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/15052108/1465Donhill171a-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -727,21 +727,6 @@
     },
     {
       "status": "active",
-      "address": "10772 Chalon Rd",
-      "city": "Bel-Air, California 90077",
-      "price_text": "$32,500,000",
-      "price_value": 32500000,
-      "represented": null,
-      "beds": 7,
-      "baths": 8,
-      "sqft": 10600,
-      "source_url": "https://thebeverlyhillsestates.com/listing/10772-chalon-rd/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/09084532/01_5P5A4997-Edit3-1024x684.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "783 Bel Air",
       "city": "Bel Air, California",
       "price_text": "$32,500,000",
@@ -752,6 +737,21 @@
       "sqft": null,
       "source_url": "https://thebeverlyhillsestates.com/listing/783-bel-air-2/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/05/15_Screenshot-2025-02-25-at-2.12.58%E2%80%AFPM-copy-1024x574.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "10772 Chalon Rd",
+      "city": "Bel-Air, California 90077",
+      "price_text": "$32,500,000",
+      "price_value": 32500000,
+      "represented": null,
+      "beds": 7,
+      "baths": 8,
+      "sqft": 10600,
+      "source_url": "https://thebeverlyhillsestates.com/listing/10772-chalon-rd/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/09084532/01_5P5A4997-Edit3-1024x684.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
