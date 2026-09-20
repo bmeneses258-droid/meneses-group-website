@@ -1,8 +1,8 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-20T04:53:57.369701+00:00",
+  "generated_at": "2026-09-20T11:23:17.191123+00:00",
   "counts": {
-    "active": 86
+    "active": 85
   },
   "listings": [
     {
@@ -902,21 +902,6 @@
       "sqft": 9071,
       "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "305 Trousdale Pl",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 5,
-      "baths": 7,
-      "sqft": 10000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
