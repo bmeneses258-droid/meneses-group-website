@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-23T04:45:13.775749+00:00",
+  "generated_at": "2026-09-23T11:36:10.615376+00:00",
   "counts": {
     "active": 87
   },
@@ -322,6 +322,21 @@
     },
     {
       "status": "active",
+      "address": "La Rosa Nautica",
+      "city": "Vista Del Mar,",
+      "price_text": "$55,000,000",
+      "price_value": 55000000,
+      "represented": null,
+      "beds": 6,
+      "baths": 7,
+      "sqft": 19987,
+      "source_url": "https://thebeverlyhillsestates.com/listing/la-rosa-nautica/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/09002757/CUMBE-001-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "1857 Bel Air Rd",
       "city": "Los Angeles, California 90077",
       "price_text": "$55,000,000",
@@ -347,21 +362,6 @@
       "sqft": null,
       "source_url": "https://thebeverlyhillsestates.com/listing/12-oakmont-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/08/22023709/12_OakmontDrive_NEW_22_2048px-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "La Rosa Nautica",
-      "city": "Vista Del Mar,",
-      "price_text": "$55,000,000",
-      "price_value": 55000000,
-      "represented": null,
-      "beds": 6,
-      "baths": 7,
-      "sqft": 19987,
-      "source_url": "https://thebeverlyhillsestates.com/listing/la-rosa-nautica/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/09002757/CUMBE-001-1024x576.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
