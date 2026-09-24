@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-24T17:11:07.113995+00:00",
+  "generated_at": "2026-09-24T21:31:42.304874+00:00",
   "counts": {
     "active": 87
   },
@@ -136,7 +136,7 @@
       "baths": 32,
       "sqft": 15000,
       "source_url": "https://thebeverlyhillsestates.com/listing/willow-creek-estate/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/08/1-3-1024x683.jpg",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/08/25035241/25-1-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -622,21 +622,6 @@
     },
     {
       "status": "active",
-      "address": "1894 N Stanley Ave",
-      "city": "Los Angeles, California 90046",
-      "price_text": "$35,000,000",
-      "price_value": 35000000,
-      "represented": null,
-      "beds": 4,
-      "baths": 7,
-      "sqft": 10700,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1894-n-stanley-avenue/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/01095826/01-1894NorthStanley005a-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "1465 Donhill Dr",
       "city": "Beverly hills, California 90210",
       "price_text": "",
@@ -647,6 +632,21 @@
       "sqft": 15000,
       "source_url": "https://thebeverlyhillsestates.com/listing/1465-donhill-dr-3/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/15052108/1465Donhill171a-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1894 N Stanley Ave",
+      "city": "Los Angeles, California 90046",
+      "price_text": "$35,000,000",
+      "price_value": 35000000,
+      "represented": null,
+      "beds": 4,
+      "baths": 7,
+      "sqft": 10700,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1894-n-stanley-avenue/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/01095826/01-1894NorthStanley005a-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -742,21 +742,6 @@
     },
     {
       "status": "active",
-      "address": "783 Bel Air",
-      "city": "Bel Air, California",
-      "price_text": "$32,500,000",
-      "price_value": 32500000,
-      "represented": null,
-      "beds": null,
-      "baths": null,
-      "sqft": null,
-      "source_url": "https://thebeverlyhillsestates.com/listing/783-bel-air-2/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/05/15_Screenshot-2025-02-25-at-2.12.58%E2%80%AFPM-copy-1024x574.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "10772 Chalon Rd",
       "city": "Bel-Air, California 90077",
       "price_text": "$32,500,000",
@@ -767,6 +752,21 @@
       "sqft": 10600,
       "source_url": "https://thebeverlyhillsestates.com/listing/10772-chalon-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/09084532/01_5P5A4997-Edit3-1024x684.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "783 Bel Air",
+      "city": "Bel Air, California",
+      "price_text": "$32,500,000",
+      "price_value": 32500000,
+      "represented": null,
+      "beds": null,
+      "baths": null,
+      "sqft": null,
+      "source_url": "https://thebeverlyhillsestates.com/listing/783-bel-air-2/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/05/15_Screenshot-2025-02-25-at-2.12.58%E2%80%AFPM-copy-1024x574.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -907,21 +907,6 @@
     },
     {
       "status": "active",
-      "address": "164 N Bristol Ave",
-      "city": "Brentwood, California 90049",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 6,
-      "baths": 9,
-      "sqft": 9071,
-      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "305 Trousdale Pl",
       "city": "Beverly Hills, California 90210",
       "price_text": "$27,500,000",
@@ -932,6 +917,21 @@
       "sqft": 10000,
       "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "164 N Bristol Ave",
+      "city": "Brentwood, California 90049",
+      "price_text": "$27,500,000",
+      "price_value": 27500000,
+      "represented": null,
+      "beds": 6,
+      "baths": 9,
+      "sqft": 9071,
+      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
