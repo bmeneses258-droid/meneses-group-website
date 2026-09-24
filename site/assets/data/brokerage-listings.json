@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-24T11:45:57.822314+00:00",
+  "generated_at": "2026-09-24T17:11:07.113995+00:00",
   "counts": {
     "active": 87
   },
@@ -412,21 +412,6 @@
     },
     {
       "status": "active",
-      "address": "470 Layton Way",
-      "city": "Brentwood Circle, California",
-      "price_text": "$47,000,000",
-      "price_value": 47000000,
-      "represented": null,
-      "beds": 8,
-      "baths": 10,
-      "sqft": 25000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/470-layton-way/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2021/11/470-Layton-Way-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "10550  Foxen Canyon Rd",
       "city": "Los Olivos , California 93441",
       "price_text": "$47,000,000",
@@ -437,6 +422,21 @@
       "sqft": null,
       "source_url": "https://thebeverlyhillsestates.com/listing/10550-foxen-canyon-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2024/08/Rancho-LaLaguna-v2.00_01_17_04.Still016-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "470 Layton Way",
+      "city": "Brentwood Circle, California",
+      "price_text": "$47,000,000",
+      "price_value": 47000000,
+      "represented": null,
+      "beds": 8,
+      "baths": 10,
+      "sqft": 25000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/470-layton-way/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2021/11/470-Layton-Way-1-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -907,21 +907,6 @@
     },
     {
       "status": "active",
-      "address": "305 Trousdale Pl",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 5,
-      "baths": 7,
-      "sqft": 10000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "164 N Bristol Ave",
       "city": "Brentwood, California 90049",
       "price_text": "$27,500,000",
@@ -932,6 +917,21 @@
       "sqft": 9071,
       "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "305 Trousdale Pl",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$27,500,000",
+      "price_value": 27500000,
+      "represented": null,
+      "beds": 5,
+      "baths": 7,
+      "sqft": 10000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1192,21 +1192,6 @@
     },
     {
       "status": "active",
-      "address": "1083 N Hillcrest Rd",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$19,500,000",
-      "price_value": 19500000,
-      "represented": null,
-      "beds": 5,
-      "baths": 8,
-      "sqft": 6083,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "555 N Patencio Rd",
       "city": "Palm Springs, California 92262",
       "price_text": "$19,500,000",
@@ -1217,6 +1202,21 @@
       "sqft": 15975,
       "source_url": "https://thebeverlyhillsestates.com/listing/555-n-patencio-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/10075225/1-1024x576.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1083 N Hillcrest Rd",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$19,500,000",
+      "price_value": 19500000,
+      "represented": null,
+      "beds": 5,
+      "baths": 8,
+      "sqft": 6083,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
