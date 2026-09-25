@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-25T04:57:36.370964+00:00",
+  "generated_at": "2026-09-25T11:51:09.116904+00:00",
   "counts": {
     "active": 88
   },
@@ -97,21 +97,6 @@
     },
     {
       "status": "active",
-      "address": "9904 Kip Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$88,000,000",
-      "price_value": 88000000,
-      "represented": null,
-      "beds": 10,
-      "baths": 22,
-      "sqft": 24757,
-      "source_url": "https://thebeverlyhillsestates.com/listing/9904-kip-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/9904-Kip-Dr-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "26848 Pacific Coast Hwy",
       "city": "Malibu, California 90265",
       "price_text": "$88,000,000",
@@ -122,6 +107,21 @@
       "sqft": 15430,
       "source_url": "https://thebeverlyhillsestates.com/listing/26848-pacific-coast-hwy/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/11051940/01_26848-PCH-Aug-21-HighRes-Mike-Kelley-50-1024x622.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "9904 Kip Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$88,000,000",
+      "price_value": 88000000,
+      "represented": null,
+      "beds": 10,
+      "baths": 22,
+      "sqft": 24757,
+      "source_url": "https://thebeverlyhillsestates.com/listing/9904-kip-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/9904-Kip-Dr-1-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -637,21 +637,6 @@
     },
     {
       "status": "active",
-      "address": "1894 N Stanley Ave",
-      "city": "Los Angeles, California 90046",
-      "price_text": "$35,000,000",
-      "price_value": 35000000,
-      "represented": null,
-      "beds": 4,
-      "baths": 7,
-      "sqft": 10700,
-      "source_url": "https://thebeverlyhillsestates.com/listing/1894-n-stanley-avenue/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/01095826/01-1894NorthStanley005a-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "1465 Donhill Dr",
       "city": "Beverly hills, California 90210",
       "price_text": "",
@@ -662,6 +647,21 @@
       "sqft": 15000,
       "source_url": "https://thebeverlyhillsestates.com/listing/1465-donhill-dr-3/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/15052108/1465Donhill171a-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "1894 N Stanley Ave",
+      "city": "Los Angeles, California 90046",
+      "price_text": "$35,000,000",
+      "price_value": 35000000,
+      "represented": null,
+      "beds": 4,
+      "baths": 7,
+      "sqft": 10700,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1894-n-stanley-avenue/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/01095826/01-1894NorthStanley005a-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
