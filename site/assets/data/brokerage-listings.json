@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-09-29T05:44:01.565822+00:00",
+  "generated_at": "2026-09-29T12:52:33.925271+00:00",
   "counts": {
     "active": 87
   },
@@ -187,21 +187,6 @@
     },
     {
       "status": "active",
-      "address": "77 Beverly Park Lane",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$68,000,000",
-      "price_value": 68000000,
-      "represented": null,
-      "beds": 9,
-      "baths": 15,
-      "sqft": 27000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/77-beverly-park-lane/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/07093816/01_77BeverlyPark016-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "9330 Flicker Way",
       "city": "Bird Streets, California 90069",
       "price_text": "$68,000,000",
@@ -212,6 +197,21 @@
       "sqft": null,
       "source_url": "https://thebeverlyhillsestates.com/listing/9330-flicker-wy/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2021/12/29014247/01-1024x768.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "77 Beverly Park Lane",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$68,000,000",
+      "price_value": 68000000,
+      "represented": null,
+      "beds": 9,
+      "baths": 15,
+      "sqft": 27000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/77-beverly-park-lane/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/07093816/01_77BeverlyPark016-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -292,21 +292,6 @@
     },
     {
       "status": "active",
-      "address": "107 Delfern Drive",
-      "city": "Holmby Hills, California 90077",
-      "price_text": "$58,000,000",
-      "price_value": 58000000,
-      "represented": null,
-      "beds": 11,
-      "baths": 20,
-      "sqft": 21000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "1251 Tower Grove Drive",
       "city": "Beverly HIlls, California 90210",
       "price_text": "$58,000,000",
@@ -332,6 +317,21 @@
       "sqft": 17000,
       "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "107 Delfern Drive",
+      "city": "Holmby Hills, California 90077",
+      "price_text": "$58,000,000",
+      "price_value": 58000000,
+      "represented": null,
+      "beds": 11,
+      "baths": 20,
+      "sqft": 21000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1147,21 +1147,6 @@
     },
     {
       "status": "active",
-      "address": "605 N Rexford Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 7,
-      "baths": 10,
-      "sqft": 8310,
-      "source_url": "https://thebeverlyhillsestates.com/listing/605-n-rexford-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/12081929/1-1-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "26122 Pacific Coast Hwy",
       "city": "Malibu, California 90265",
       "price_text": "$19,995,000",
@@ -1187,6 +1172,21 @@
       "sqft": 5131,
       "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "605 N Rexford Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 7,
+      "baths": 10,
+      "sqft": 8310,
+      "source_url": "https://thebeverlyhillsestates.com/listing/605-n-rexford-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/12081929/1-1-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
