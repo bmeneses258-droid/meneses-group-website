@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-09T13:16:45.842544+00:00",
+  "generated_at": "2026-10-09T22:38:33.083220+00:00",
   "counts": {
     "active": 88
   },
@@ -292,21 +292,6 @@
     },
     {
       "status": "active",
-      "address": "9366  Flicker Way",
-      "city": "Bird Streets, California 90069",
-      "price_text": "$58,000,000",
-      "price_value": 58000000,
-      "represented": null,
-      "beds": 7,
-      "baths": 10,
-      "sqft": 17000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "107 Delfern Drive",
       "city": "Holmby Hills, California 90077",
       "price_text": "$58,000,000",
@@ -332,6 +317,21 @@
       "sqft": 14500,
       "source_url": "https://thebeverlyhillsestates.com/listing/1251-tower-grove-drive/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/08/1251-Tower-Grove-Drive-1-1024x681.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "9366  Flicker Way",
+      "city": "Bird Streets, California 90069",
+      "price_text": "$58,000,000",
+      "price_value": 58000000,
+      "represented": null,
+      "beds": 7,
+      "baths": 10,
+      "sqft": 17000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -802,21 +802,6 @@
     },
     {
       "status": "active",
-      "address": "4217 Avenue Del Mar",
-      "city": "Carpinteria, California 93013",
-      "price_text": "$34,000,000",
-      "price_value": 34000000,
-      "represented": null,
-      "beds": 9,
-      "baths": 10,
-      "sqft": 7954,
-      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25062319/00_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-111-1024x575.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "783 Bel Air",
       "city": "Bel Air, California",
       "price_text": "$32,500,000",
@@ -932,6 +917,21 @@
       "sqft": 8602,
       "source_url": "https://thebeverlyhillsestates.com/listing/610-arkell-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/01/29045741/01_610ArkellDrive004-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "4217 Avenue Del Mar",
+      "city": "Carpinteria, California 93013",
+      "price_text": "$28,500,000",
+      "price_value": 28500000,
+      "represented": null,
+      "beds": 9,
+      "baths": 10,
+      "sqft": 7954,
+      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
