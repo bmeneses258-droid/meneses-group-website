@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-11T21:58:33.371556+00:00",
+  "generated_at": "2026-10-12T05:57:37.327780+00:00",
   "counts": {
     "active": 88
   },
@@ -982,21 +982,6 @@
     },
     {
       "status": "active",
-      "address": "305 Trousdale Pl",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 5,
-      "baths": 7,
-      "sqft": 10000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "164 N Bristol Ave",
       "city": "Brentwood, California 90049",
       "price_text": "$27,500,000",
@@ -1007,6 +992,21 @@
       "sqft": 9071,
       "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "305 Trousdale Pl",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$27,500,000",
+      "price_value": 27500000,
+      "represented": null,
+      "beds": 5,
+      "baths": 7,
+      "sqft": 10000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1222,21 +1222,6 @@
     },
     {
       "status": "active",
-      "address": "21614  Pacific Coast Hwy",
-      "city": "Malibu, California 90265",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 4,
-      "baths": 7,
-      "sqft": 5131,
-      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "605 N Rexford Dr",
       "city": "Beverly Hills, California 90210",
       "price_text": "$19,995,000",
@@ -1262,6 +1247,21 @@
       "sqft": 4608,
       "source_url": "https://thebeverlyhillsestates.com/listing/26122-pacific-coast-hwy/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/14065511/5-DSC01304-1-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "21614  Pacific Coast Hwy",
+      "city": "Malibu, California 90265",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 4,
+      "baths": 7,
+      "sqft": 5131,
+      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
