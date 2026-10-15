@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-15T04:38:25.338440+00:00",
+  "generated_at": "2026-10-15T11:28:27.912228+00:00",
   "counts": {
     "active": 88
   },
@@ -67,21 +67,6 @@
     },
     {
       "status": "active",
-      "address": "7661 Curson Terrace",
-      "city": "Los Angeles, California 90046",
-      "price_text": "$99,000,000",
-      "price_value": 99000000,
-      "represented": null,
-      "beds": 7,
-      "baths": 12,
-      "sqft": 22000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/7661-curson-terrace/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/09/03025231/00_7661CursonTerrace140-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "908 Bel Air Rd",
       "city": "Bel-Air, California",
       "price_text": "$99,000,000",
@@ -92,6 +77,21 @@
       "sqft": 34000,
       "source_url": "https://thebeverlyhillsestates.com/listing/908-bel-air-rd-bel-air-ca/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/07/908-Bel-Air-Rd-1-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "7661 Curson Terrace",
+      "city": "Los Angeles, California 90046",
+      "price_text": "$99,000,000",
+      "price_value": 99000000,
+      "represented": null,
+      "beds": 7,
+      "baths": 12,
+      "sqft": 22000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/7661-curson-terrace/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/09/03025231/00_7661CursonTerrace140-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -292,6 +292,21 @@
     },
     {
       "status": "active",
+      "address": "107 Delfern Drive",
+      "city": "Holmby Hills, California 90077",
+      "price_text": "$58,000,000",
+      "price_value": 58000000,
+      "represented": null,
+      "beds": 11,
+      "baths": 20,
+      "sqft": 21000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "1251 Tower Grove Drive",
       "city": "Beverly HIlls, California 90210",
       "price_text": "$58,000,000",
@@ -317,21 +332,6 @@
       "sqft": 17000,
       "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "107 Delfern Drive",
-      "city": "Holmby Hills, California 90077",
-      "price_text": "$58,000,000",
-      "price_value": 58000000,
-      "represented": null,
-      "beds": 11,
-      "baths": 20,
-      "sqft": 21000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1237,6 +1237,21 @@
     },
     {
       "status": "active",
+      "address": "605 N Rexford Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 7,
+      "baths": 10,
+      "sqft": 8310,
+      "source_url": "https://thebeverlyhillsestates.com/listing/605-n-rexford-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/12081929/1-1-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "26122 Pacific Coast Hwy",
       "city": "Malibu, California 90265",
       "price_text": "$19,995,000",
@@ -1282,21 +1297,6 @@
     },
     {
       "status": "active",
-      "address": "605 N Rexford Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 7,
-      "baths": 10,
-      "sqft": 8310,
-      "source_url": "https://thebeverlyhillsestates.com/listing/605-n-rexford-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/12081929/1-1-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "5544 Hoback Glen Rd",
       "city": "Hidden Hills, California 91302",
       "price_text": "$19,950,000",
@@ -1312,16 +1312,16 @@
     },
     {
       "status": "active",
-      "address": "555 N Patencio Rd",
-      "city": "Palm Springs, California 92262",
+      "address": "1083 N Hillcrest Rd",
+      "city": "Beverly Hills, California 90210",
       "price_text": "$19,500,000",
       "price_value": 19500000,
       "represented": null,
-      "beds": 12,
-      "baths": 16,
-      "sqft": 15975,
-      "source_url": "https://thebeverlyhillsestates.com/listing/555-n-patencio-rd/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/10075225/1-1024x576.jpg",
+      "beds": 5,
+      "baths": 8,
+      "sqft": 6083,
+      "source_url": "https://thebeverlyhillsestates.com/listing/1083-n-hillcrest-rd-2/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/02/1083_HillcrestRd_28-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     }
