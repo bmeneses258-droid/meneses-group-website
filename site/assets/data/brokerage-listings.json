@@ -1,8 +1,8 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-15T17:00:22.357459+00:00",
+  "generated_at": "2026-10-15T21:22:55.493765+00:00",
   "counts": {
-    "active": 88
+    "active": 86
   },
   "listings": [
     {
@@ -332,21 +332,6 @@
       "sqft": 21000,
       "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "La Rosa Nautica",
-      "city": "Vista Del Mar,",
-      "price_text": "$55,000,000",
-      "price_value": 55000000,
-      "represented": null,
-      "beds": 6,
-      "baths": 7,
-      "sqft": 19987,
-      "source_url": "https://thebeverlyhillsestates.com/listing/la-rosa-nautica/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/05/09002757/CUMBE-001-1024x576.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -907,21 +892,6 @@
     },
     {
       "status": "active",
-      "address": "4217 Avenue Del Mar",
-      "city": "Carpinteria, California 93013",
-      "price_text": "$28,500,000",
-      "price_value": 28500000,
-      "represented": null,
-      "beds": 9,
-      "baths": 10,
-      "sqft": 7954,
-      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "610 Arkell Drive",
       "city": "Beverly Hills, California 90210",
       "price_text": "$28,500,000",
@@ -932,6 +902,21 @@
       "sqft": 8602,
       "source_url": "https://thebeverlyhillsestates.com/listing/610-arkell-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/01/29045741/01_610ArkellDrive004-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "4217 Avenue Del Mar",
+      "city": "Carpinteria, California 93013",
+      "price_text": "$28,500,000",
+      "price_value": 28500000,
+      "represented": null,
+      "beds": 9,
+      "baths": 10,
+      "sqft": 7954,
+      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -982,21 +967,6 @@
     },
     {
       "status": "active",
-      "address": "164 N Bristol Ave",
-      "city": "Brentwood, California 90049",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 6,
-      "baths": 9,
-      "sqft": 9071,
-      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "305 Trousdale Pl",
       "city": "Beverly Hills, California 90210",
       "price_text": "$27,500,000",
@@ -1007,6 +977,21 @@
       "sqft": 10000,
       "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "164 N Bristol Ave",
+      "city": "Brentwood, California 90049",
+      "price_text": "$27,500,000",
+      "price_value": 27500000,
+      "represented": null,
+      "beds": 6,
+      "baths": 9,
+      "sqft": 9071,
+      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1177,21 +1162,6 @@
     },
     {
       "status": "active",
-      "address": "715 N Beverly Dr N Beverly Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$21,500,000",
-      "price_value": 21500000,
-      "represented": null,
-      "beds": 6,
-      "baths": 6,
-      "sqft": 7511,
-      "source_url": "https://thebeverlyhillsestates.com/listing/715-n-beverly-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/22032143/715_NBeverlyDrive_13-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "400 Amalfi Drive",
       "city": "Pacific Palisades, California 90272",
       "price_text": "$21,500,000",
@@ -1202,6 +1172,21 @@
       "sqft": 7796,
       "source_url": "https://thebeverlyhillsestates.com/listing/400-amalfi-drive/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12195528/01_RD_Palevsky_0550_F-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "715 N Beverly Dr N Beverly Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$21,500,000",
+      "price_value": 21500000,
+      "represented": null,
+      "beds": 6,
+      "baths": 6,
+      "sqft": 7511,
+      "source_url": "https://thebeverlyhillsestates.com/listing/715-n-beverly-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/22032143/715_NBeverlyDrive_13-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1237,36 +1222,6 @@
     },
     {
       "status": "active",
-      "address": "24380 Malibu Rd",
-      "city": "Malibu, California 90265",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 4,
-      "baths": 5,
-      "sqft": 4600,
-      "source_url": "https://thebeverlyhillsestates.com/listing/24380-malibu-rd/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12213023/24380MalibuRd002-1024x775.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "21614  Pacific Coast Hwy",
-      "city": "Malibu, California 90265",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 4,
-      "baths": 7,
-      "sqft": 5131,
-      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "605 N Rexford Dr",
       "city": "Beverly Hills, California 90210",
       "price_text": "$19,995,000",
@@ -1297,6 +1252,36 @@
     },
     {
       "status": "active",
+      "address": "24380 Malibu Rd",
+      "city": "Malibu, California 90265",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 4,
+      "baths": 5,
+      "sqft": 4600,
+      "source_url": "https://thebeverlyhillsestates.com/listing/24380-malibu-rd/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12213023/24380MalibuRd002-1024x775.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "21614  Pacific Coast Hwy",
+      "city": "Malibu, California 90265",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 4,
+      "baths": 7,
+      "sqft": 5131,
+      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "5544 Hoback Glen Rd",
       "city": "Hidden Hills, California 91302",
       "price_text": "$19,950,000",
@@ -1307,21 +1292,6 @@
       "sqft": 10000,
       "source_url": "https://thebeverlyhillsestates.com/listing/5544-hoback-glen-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/11052440/File-1-1024x576.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "555 N Patencio Rd",
-      "city": "Palm Springs, California 92262",
-      "price_text": "$19,500,000",
-      "price_value": 19500000,
-      "represented": null,
-      "beds": 12,
-      "baths": 16,
-      "sqft": 15975,
-      "source_url": "https://thebeverlyhillsestates.com/listing/555-n-patencio-rd/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/10075225/1-1024x576.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     }
