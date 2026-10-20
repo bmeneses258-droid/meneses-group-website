@@ -1,8 +1,8 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-19T22:21:31.877099+00:00",
+  "generated_at": "2026-10-20T04:50:40.390874+00:00",
   "counts": {
-    "active": 85
+    "active": 86
   },
   "listings": [
     {
@@ -292,21 +292,6 @@
     },
     {
       "status": "active",
-      "address": "107 Delfern Drive",
-      "city": "Holmby Hills, California 90077",
-      "price_text": "$58,000,000",
-      "price_value": 58000000,
-      "represented": null,
-      "beds": 11,
-      "baths": 20,
-      "sqft": 21000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "1251 Tower Grove Drive",
       "city": "Beverly HIlls, California 90210",
       "price_text": "$58,000,000",
@@ -332,6 +317,21 @@
       "sqft": 17000,
       "source_url": "https://thebeverlyhillsestates.com/listing/9366-flicker-way/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/11/9366-Flicker-Way-1-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "107 Delfern Drive",
+      "city": "Holmby Hills, California 90077",
+      "price_text": "$58,000,000",
+      "price_value": 58000000,
+      "represented": null,
+      "beds": 11,
+      "baths": 20,
+      "sqft": 21000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/107-delfern-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/03/11085404/02-1024x767.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -652,6 +652,21 @@
     },
     {
       "status": "active",
+      "address": "807 Cinthia St",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$36,500,000",
+      "price_value": 36500000,
+      "represented": null,
+      "beds": 7,
+      "baths": 8,
+      "sqft": 13300,
+      "source_url": "https://thebeverlyhillsestates.com/listing/807-cinthia-st-2/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/20014756/46-1024x640.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "12770 S Bristol Cir",
       "city": "Los Angeles, California 90049",
       "price_text": "$36,500,000",
@@ -877,21 +892,6 @@
     },
     {
       "status": "active",
-      "address": "4217 Avenue Del Mar",
-      "city": "Carpinteria, California 93013",
-      "price_text": "$28,500,000",
-      "price_value": 28500000,
-      "represented": null,
-      "beds": 9,
-      "baths": 10,
-      "sqft": 7954,
-      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "610 Arkell Drive",
       "city": "Beverly Hills, California 90210",
       "price_text": "$28,500,000",
@@ -902,6 +902,21 @@
       "sqft": 8602,
       "source_url": "https://thebeverlyhillsestates.com/listing/610-arkell-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/01/29045741/01_610ArkellDrive004-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "4217 Avenue Del Mar",
+      "city": "Carpinteria, California 93013",
+      "price_text": "$28,500,000",
+      "price_value": 28500000,
+      "represented": null,
+      "beds": 9,
+      "baths": 10,
+      "sqft": 7954,
+      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1147,21 +1162,6 @@
     },
     {
       "status": "active",
-      "address": "715 N Beverly Dr N Beverly Dr",
-      "city": "Beverly Hills, California 90210",
-      "price_text": "$21,500,000",
-      "price_value": 21500000,
-      "represented": null,
-      "beds": 6,
-      "baths": 6,
-      "sqft": 7511,
-      "source_url": "https://thebeverlyhillsestates.com/listing/715-n-beverly-dr/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/22032143/715_NBeverlyDrive_13-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "400 Amalfi Drive",
       "city": "Pacific Palisades, California 90272",
       "price_text": "$21,500,000",
@@ -1172,6 +1172,21 @@
       "sqft": 7796,
       "source_url": "https://thebeverlyhillsestates.com/listing/400-amalfi-drive/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12195528/01_RD_Palevsky_0550_F-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "715 N Beverly Dr N Beverly Dr",
+      "city": "Beverly Hills, California 90210",
+      "price_text": "$21,500,000",
+      "price_value": 21500000,
+      "represented": null,
+      "beds": 6,
+      "baths": 6,
+      "sqft": 7511,
+      "source_url": "https://thebeverlyhillsestates.com/listing/715-n-beverly-dr/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/22032143/715_NBeverlyDrive_13-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1202,21 +1217,6 @@
       "sqft": 10413,
       "source_url": "https://thebeverlyhillsestates.com/listing/1682-san-onofre-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/04/HIGH-RES-137-1024x766.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "21614  Pacific Coast Hwy",
-      "city": "Malibu, California 90265",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 4,
-      "baths": 7,
-      "sqft": 5131,
-      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1262,6 +1262,21 @@
       "sqft": 4600,
       "source_url": "https://thebeverlyhillsestates.com/listing/24380-malibu-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12213023/24380MalibuRd002-1024x775.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "21614  Pacific Coast Hwy",
+      "city": "Malibu, California 90265",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 4,
+      "baths": 7,
+      "sqft": 5131,
+      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
