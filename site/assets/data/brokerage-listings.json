@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-20T04:50:40.390874+00:00",
+  "generated_at": "2026-10-20T11:35:49.844866+00:00",
   "counts": {
     "active": 86
   },
@@ -67,21 +67,6 @@
     },
     {
       "status": "active",
-      "address": "908 Bel Air Rd",
-      "city": "Bel-Air, California",
-      "price_text": "$99,000,000",
-      "price_value": 99000000,
-      "represented": null,
-      "beds": 9,
-      "baths": 20,
-      "sqft": 34000,
-      "source_url": "https://thebeverlyhillsestates.com/listing/908-bel-air-rd-bel-air-ca/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/07/908-Bel-Air-Rd-1-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "7661 Curson Terrace",
       "city": "Los Angeles, California 90046",
       "price_text": "$99,000,000",
@@ -92,6 +77,21 @@
       "sqft": 22000,
       "source_url": "https://thebeverlyhillsestates.com/listing/7661-curson-terrace/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/09/03025231/00_7661CursonTerrace140-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "908 Bel Air Rd",
+      "city": "Bel-Air, California",
+      "price_text": "$99,000,000",
+      "price_value": 99000000,
+      "represented": null,
+      "beds": 9,
+      "baths": 20,
+      "sqft": 34000,
+      "source_url": "https://thebeverlyhillsestates.com/listing/908-bel-air-rd-bel-air-ca/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2020/07/908-Bel-Air-Rd-1-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1222,6 +1222,21 @@
     },
     {
       "status": "active",
+      "address": "21614  Pacific Coast Hwy",
+      "city": "Malibu, California 90265",
+      "price_text": "$19,995,000",
+      "price_value": 19995000,
+      "represented": null,
+      "beds": 4,
+      "baths": 7,
+      "sqft": 5131,
+      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "605 N Rexford Dr",
       "city": "Beverly Hills, California 90210",
       "price_text": "$19,995,000",
@@ -1262,21 +1277,6 @@
       "sqft": 4600,
       "source_url": "https://thebeverlyhillsestates.com/listing/24380-malibu-rd/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12213023/24380MalibuRd002-1024x775.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "21614  Pacific Coast Hwy",
-      "city": "Malibu, California 90265",
-      "price_text": "$19,995,000",
-      "price_value": 19995000,
-      "represented": null,
-      "beds": 4,
-      "baths": 7,
-      "sqft": 5131,
-      "source_url": "https://thebeverlyhillsestates.com/listing/21614-pacific-coast-hwy/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2023/05/21614-pacific-coast-hwy01-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
