@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-10-22T17:10:29.126359+00:00",
+  "generated_at": "2026-10-22T21:35:30.037092+00:00",
   "counts": {
     "active": 86
   },
@@ -892,21 +892,6 @@
     },
     {
       "status": "active",
-      "address": "4217 Avenue Del Mar",
-      "city": "Carpinteria, California 93013",
-      "price_text": "$28,500,000",
-      "price_value": 28500000,
-      "represented": null,
-      "beds": 9,
-      "baths": 10,
-      "sqft": 7954,
-      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "610 Arkell Drive",
       "city": "Beverly Hills, California 90210",
       "price_text": "$28,500,000",
@@ -917,6 +902,21 @@
       "sqft": 8602,
       "source_url": "https://thebeverlyhillsestates.com/listing/610-arkell-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/01/29045741/01_610ArkellDrive004-1024x767.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "4217 Avenue Del Mar",
+      "city": "Carpinteria, California 93013",
+      "price_text": "$28,500,000",
+      "price_value": 28500000,
+      "represented": null,
+      "beds": 9,
+      "baths": 10,
+      "sqft": 7954,
+      "source_url": "https://thebeverlyhillsestates.com/listing/4217-avenue-del-mar/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/06/25063537/43_4217-Avenue-Del-Mar-Eric-Haskell-cAndrewBramasco-112-1024x682.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -967,21 +967,6 @@
     },
     {
       "status": "active",
-      "address": "164 N Bristol Ave",
-      "city": "Brentwood, California 90049",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 6,
-      "baths": 9,
-      "sqft": 9071,
-      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "305 Trousdale Pl",
       "city": "Beverly Hills, California 90210",
       "price_text": "$27,500,000",
@@ -992,6 +977,21 @@
       "sqft": 10000,
       "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "164 N Bristol Ave",
+      "city": "Brentwood, California 90049",
+      "price_text": "$27,500,000",
+      "price_value": 27500000,
+      "represented": null,
+      "beds": 6,
+      "baths": 9,
+      "sqft": 9071,
+      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
