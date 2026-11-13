@@ -1,6 +1,6 @@
 {
   "source": "https://thebeverlyhillsestates.com/properties/",
-  "generated_at": "2026-11-12T23:39:07.836124+00:00",
+  "generated_at": "2026-11-13T06:44:51.479961+00:00",
   "counts": {
     "active": 86
   },
@@ -982,6 +982,21 @@
     },
     {
       "status": "active",
+      "address": "164 N Bristol Ave",
+      "city": "Brentwood, California 90049",
+      "price_text": "$27,500,000",
+      "price_value": 27500000,
+      "represented": null,
+      "beds": 6,
+      "baths": 9,
+      "sqft": 9071,
+      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
       "address": "9900 S Santa Monica Blvd, PHC",
       "city": "Beverly Hills, California 90212",
       "price_text": "$27,500,000",
@@ -1007,21 +1022,6 @@
       "sqft": 10000,
       "source_url": "https://thebeverlyhillsestates.com/listing/305-trousdale-pl/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/03/02_Trousdale-Place-35-1024x1024.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
-      "address": "164 N Bristol Ave",
-      "city": "Brentwood, California 90049",
-      "price_text": "$27,500,000",
-      "price_value": 27500000,
-      "represented": null,
-      "beds": 6,
-      "baths": 9,
-      "sqft": 9071,
-      "source_url": "https://thebeverlyhillsestates.com/listing/164-n-bristol-ave/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2025/07/164_NBristolAve_51-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
@@ -1192,21 +1192,6 @@
     },
     {
       "status": "active",
-      "address": "400 Amalfi Drive",
-      "city": "Pacific Palisades, California 90272",
-      "price_text": "$21,500,000",
-      "price_value": 21500000,
-      "represented": null,
-      "beds": 7,
-      "baths": 7,
-      "sqft": 7796,
-      "source_url": "https://thebeverlyhillsestates.com/listing/400-amalfi-drive/",
-      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12195528/01_RD_Palevsky_0550_F-1024x683.jpg",
-      "agent": null,
-      "brokerage": "The Beverly Hills Estates"
-    },
-    {
-      "status": "active",
       "address": "715 N Beverly Dr N Beverly Dr",
       "city": "Beverly Hills, California 90210",
       "price_text": "$21,500,000",
@@ -1217,6 +1202,21 @@
       "sqft": 7511,
       "source_url": "https://thebeverlyhillsestates.com/listing/715-n-beverly-dr/",
       "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/09/22032143/715_NBeverlyDrive_13-1024x683.jpg",
+      "agent": null,
+      "brokerage": "The Beverly Hills Estates"
+    },
+    {
+      "status": "active",
+      "address": "400 Amalfi Drive",
+      "city": "Pacific Palisades, California 90272",
+      "price_text": "$21,500,000",
+      "price_value": 21500000,
+      "represented": null,
+      "beds": 7,
+      "baths": 7,
+      "sqft": 7796,
+      "source_url": "https://thebeverlyhillsestates.com/listing/400-amalfi-drive/",
+      "image_url": "https://cdn.agentimagehosting.com/6MWI5x4TE3bF7lCmWBeiJ/2026/10/12195528/01_RD_Palevsky_0550_F-1024x683.jpg",
       "agent": null,
       "brokerage": "The Beverly Hills Estates"
     },
